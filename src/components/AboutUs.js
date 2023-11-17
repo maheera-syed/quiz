@@ -11,7 +11,7 @@ export const AboutUs = () => {
         style={{ backgroundColor: '#C1C3C0' }}
         className={'projects-section text-dark'}
       >
-        <Container className='mt-5 '>
+        <Container className='mt-0 '>
           <Row>
             <Col md={6}>
               {/* Content on the left */}
